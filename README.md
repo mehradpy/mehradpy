@@ -1,19 +1,31 @@
-<h1 align="center">Mehrad</h1>
+<h1 align="center">Hi there, I'm Mehrad 👋</h1>
+<h3 align="center">Python Developer | Automation & Bots | Freelancer</h3>
 
 <p align="center">
-  Python Developer | Building lightning-fast Telegram bots, web scrapers, automation tools & custom scripts | AI-powered precision • Zero bugs • Rapid delivery | USDT payments welcome
+  Building lightning-fast Telegram bots, web scrapers, and custom automation tools. 
+  <br> Focused on zero bugs, rapid delivery, and AI-powered precision.
 </p>
 
-<p align="center">
-  <a href="https://github.com/mehradpy?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:mehrad.python@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/USDT_Payments_Accepted-00C853?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
-</p>
+<div align="center">
+  <a href="mailto:hello.mehradpy@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-hello.mehradpy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/USDT_Payments-Accepted-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehradpy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+---
 
+### 🛠 What I Do
+- 🤖 **Telegram Bots:** Interactive, state-based, and server-deployed bots.
+- 🕸️ **Web Scraping:** Extracting data efficiently and cleanly.
+- ⚙️ **Automation:** Automating boring tasks with Python.
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehradpy&show_icons=true&theme=radical&hide_border=true" alt="Mehrad's GitHub Stats" />
+</div>
+
+<br>
 <p align="center">
-  🚀 Open for freelance gigs • Small to medium Python tasks • Let's build something epic
+  🚀 <i>Open for freelance gigs • Small to medium Python tasks • Let's build something epic</i>
 </p>
