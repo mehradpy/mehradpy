@@ -1,31 +1,26 @@
-<h1 align="center">Hi there, I'm Mehrad 👋</h1>
-<h3 align="center">Python Developer | Automation & Bots | Freelancer</h3>
+<h1 align="center">Mehrad ⚡</h1>
+<h3 align="center">Advanced Python Architect | Backend & Automation Specialist</h3>
 
 <p align="center">
-  Building lightning-fast Telegram bots, web scrapers, and custom automation tools. 
-  <br> Focused on zero bugs, rapid delivery, and AI-powered precision.
+  Specializing in high-performance Python solutions, scalable infrastructure, and enterprise-grade Telegram bots. <br>
+  Delivering production-ready code with AI-driven optimization and flawless execution.
 </p>
 
 <div align="center">
   <a href="mailto:hello.mehradpy@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-hello.mehradpy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Me-hello.mehradpy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/USDT_Payments-Accepted-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT" />
-</div>
-
----
-
-### 🛠 What I Do
-- 🤖 **Telegram Bots:** Interactive, state-based, and server-deployed bots.
-- 🕸️ **Web Scraping:** Extracting data efficiently and cleanly.
-- ⚙️ **Automation:** Automating boring tasks with Python.
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehradpy&show_icons=true&theme=radical&hide_border=true" alt="Mehrad's GitHub Stats" />
+  <img src="https://img.shields.io/badge/Payments-USDT_Accepted-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT" />
 </div>
 
 <br>
-<p align="center">
-  🚀 <i>Open for freelance gigs • Small to medium Python tasks • Let's build something epic</i>
-</p>
+
+### 🏗️ Technical Expertise
+- **Advanced Bot Architecture:** State-machine workflows, asynchronous processing, and API integrations.
+- **Complex Web Scraping:** Bypassing anti-bot systems, data pipelines, and headless browsing.
+- **Data Automation:** High-volume data processing and reliable automated workflows.
+
+### 📈 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehradpy&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="GitHub Stats" />
+</div>
